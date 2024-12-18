@@ -1,0 +1,13 @@
+export { default as Home } from "./Home";
+export { default as MedicalImage } from "./MedicalImage";
+export { default as DrugImage } from "./DrugImage";
+export { default as CreatePost } from "./CreatePost";
+export { default as Profile } from "./Profile";
+export { default as UpdateProfile } from "./UpdateProfile";
+export { default as EditPost } from "./EditPost";
+export { default as PostDetails } from "./PostDetails";
+export { default as LikedPosts } from "./LikedPosts";
+export { default as AllUsers } from "./AllUsers";
+export { default as SummarizeReport} from "./SummarizeReport";
+export {default as History} from "./History";
+export {default as ChatBot} from "./ChatBot";
